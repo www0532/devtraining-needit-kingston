@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="test_new" max_length="40" name="x_58872_needit_test_new" type="collection"/>
+</database>
