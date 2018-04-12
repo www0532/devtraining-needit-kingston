@@ -5,17 +5,17 @@
         <default>true</default>
         <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
         <icon>048f7b4f4fd9130017f330318110c754.iix?t=m</icon>
-        <kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
+        <kb_knowledge_base display_value="ACME North America IT サービスデスク">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
         <kb_knowledge_page/>
         <login_page/>
         <logo>897fffcf4fd9130017f330318110c75f.iix?t=m</logo>
         <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
         <quick_start_config/>
-        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sc_catalog display_value="サービスカタログ">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
         <sc_catalog_page/>
         <sc_category_page/>
         <sp_chat_queue/>
-        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sp_rectangle_menu display_value="SP ヘッダーメニュー">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
         <sqanda_knowledge_base/>
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
